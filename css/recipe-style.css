@@ -1,0 +1,59 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: #060621;
+    text-align: center;
+}
+
+
+
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    margin: 10px 30px 30px 30px;
+    color: #dc772c ;
+}
+
+h3{
+    margin: 15px;
+    color: #9464b8;
+}
+
+ol{
+    margin-bottom: 20px;
+    color: #9464b8;
+    font-size: large;
+}
+
+p{
+    color: #9464b8;
+    
+}
+
+.description{
+    font-weight: bold;
+    font-size: larger;
+}
+
+/* .back-homepage{
+    background-color: wheat;
+} */
+
+
+button{
+    background-color: white;
+    padding: 5px 20px 5px 20px;
+}
+
+button:hover{
+    background-color: rgb(255, 115, 0);
+}

@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: #060621;
+    box-sizing: border-box;
+    
+}
+
+a:link,
+a:visited{
+    color: blue;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color: #dc772c ;
+}
+
+
+.cake,
+.cookie{
+    text-align: center;
+    margin: auto;
+}
+
+
+
+p{
+    font-weight: bolder;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    
+}
+
+.cake{
+    margin: 50px auto 50px auto;
+}
+
+.cookie{
+    margin: 50px auto 50px auto;
+}
+
+
+.footer{
+    text-align: center;
+    margin-top: 200px;
+    color: #9464b8;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
